@@ -39,6 +39,11 @@ body {
     opacity: 0;
     animation: slideRight 1s ease forwards;
 }
+.about-img img{
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
 
 .navbar a {
     display: inline-block;
