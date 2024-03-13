@@ -39,11 +39,6 @@ body {
     opacity: 0;
     animation: slideRight 1s ease forwards;
 }
-.about-img img{
-    border: 5px solid white;
-    border-radius: 50%;
-}
-
 
 .navbar a {
     display: inline-block;
@@ -213,7 +208,14 @@ body {
     opacity: 1;
    
 }
-
+.home-content img{
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.about-img img{
+    border: 5px solid white;
+    border-radius: 50%;
+}
 
 .abt-res {
     width: 100%;
